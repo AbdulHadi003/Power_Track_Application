@@ -1,0 +1,30 @@
+
+@tailwind utilities;
+
+/* Design System Colors */
+:root {
+  --primary-blue: #005ea2;
+  --primary-dark: #1b1b1b;
+  --primary-light: #eff6fb;
+
+  --accent-green: #00a91c;
+  --accent-red: #d54309;
+  --accent-yellow: #ffbe2e;
+  --accent-cyan: #00bde3;
+
+  --gray-900: #1b1b1b;
+  --gray-800: #2d2e2f;
+  --gray-700: #565c65;
+  --gray-600: #71767a;
+  --gray-500: #8d9297;
+  --gray-400: #a9aeb1;
+  --gray-300: #c6cace;
+  --gray-200: #dfe1e2;
+  --gray-100: #e6e6e6;
+  --gray-50: #f0f0f0;
+
+  --success: #00a91c;
+  --warning: #ffbe2e;
+  --error: #d54309;
+  --info: #00bde3;
+}
