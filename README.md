@@ -12,7 +12,6 @@ PowerTrack is a backend-focused management system built for electricity distribu
 - [Getting Started](#-getting-started)
 - [Demo Accounts](#-demo-accounts)
 - [Project Timeline](#-project-timeline)
-- 
 ---
 
 ## 🔍 Overview
